@@ -1,0 +1,8 @@
+pandas==1.3.5
+geopandas==0.10.1
+shapely==1.7.1
+datetime
+python-dateutil
+unidecode
+numpy==1.18.1
+beautifulsoup4
