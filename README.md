@@ -1,4 +1,4 @@
-# Propuesta de evalación de riesgo criminal en CDMX
+# Propuesta de evaluación de riesgo criminal en CDMX
 
 
 Conjunto de scripts en python que permiten generar data limpia y confiable
