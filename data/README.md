@@ -1,1 +1,1 @@
-#Here the data is stored
+# En esta carpeta se guardan los datos
