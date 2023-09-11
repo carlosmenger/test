@@ -35,6 +35,8 @@ Inputs:
 
     Data del censo
 
+Para conseguir la data del censo es necsario descargar la data del censo a nivel AGEB
+por parte del INEGI
 
 Outputs:
 
