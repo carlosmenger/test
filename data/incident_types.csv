@@ -1,0 +1,8 @@
+incidents_type,incidents_code,weights
+robo a persona,101,5
+robo a negocio,102,5
+robo a casa,103,10
+robo de auto,105,11
+homicidio,300,49
+secuestro,400,27
+lesiones,500,4
